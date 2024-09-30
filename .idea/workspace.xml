@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26456e75-6bb4-4c2e-8ebc-356b38314df8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python-playground.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section1/band_name_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section2/data_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section2/mathematical_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section2/number_manipulation_f_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section2/tip_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section2/type_error_checking_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section3/if-else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section3/logical_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section3/modulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section3/multiple-if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section3/nested-if-else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section3/pizza_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section3/treasure-island.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section4/banker_roulete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section4/heads_or_tails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section4/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section4/my_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section4/nested_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section4/random_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section4/rock_paper_scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section5/for_loop_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section5/highest_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section5/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section5/password_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section6/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2l6pYDOsxbPR5ZewvE2fNswnLji" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.band_name_generator.executor": "Run",
+    "Python.banker_roulete.executor": "Run",
+    "Python.data_types.executor": "Run",
+    "Python.for_loop_range.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.heads_or_tails.executor": "Run",
+    "Python.highest_score.executor": "Run",
+    "Python.if-else.executor": "Run",
+    "Python.lists.executor": "Run",
+    "Python.logical_operators.executor": "Run",
+    "Python.loops.executor": "Run",
+    "Python.mathematical_operations.executor": "Run",
+    "Python.modulo.executor": "Run",
+    "Python.multiple-if.executor": "Run",
+    "Python.nested-if-else.executor": "Run",
+    "Python.nested_lists.executor": "Run",
+    "Python.number_manipulation_f_string.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.pizza_order.executor": "Run",
+    "Python.random_module.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
+    "Python.task.executor": "Run",
+    "Python.tip_calculator.executor": "Run",
+    "Python.treasure-island.executor": "Run",
+    "Python.type_error_checking_conversion.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/nikolasuscevic/PycharmProjects/python-playground"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-abccbe9d933a-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26456e75-6bb4-4c2e-8ebc-356b38314df8" name="Changes" comment="" />
+      <created>1724510426350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724510426350</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/section2/tip_calculator.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/section5/password_generator.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
